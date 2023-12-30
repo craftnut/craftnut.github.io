@@ -10,7 +10,7 @@ body {
     100% {opacity: 1;}
 }
 
-#boner img {
+#skeleton img {
     width: 300px;
     animation: fadein 4.5s;
 }
