@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    background-image: url('../images/fireplace-love.gif');
+    color: white;
+    font-size: 200%;
+}
+
+@keyframes fadein {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+#boner img {
+    width: 300px;
+    animation: fadein 4.5s;
+}

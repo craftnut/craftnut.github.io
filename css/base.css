@@ -1,0 +1,32 @@
+body {
+    background-image: url('../images/Waves Azul.png');
+    color: black;
+}
+
+a:link {
+    color: #551a8b;
+}
+
+.titlebar {
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    width: fit-content;
+    outline-color: black;
+    outline-style: double;
+    outline-width: 5px;
+}
+
+.maincontent {
+    font-size: 150%;
+    font-weight: normal;
+    text-align: left;
+    padding: 5px;
+    margin: auto;
+    width: 750px;
+    outline-color: black;
+    outline-style: double;
+    outline-width: 5px;
+}

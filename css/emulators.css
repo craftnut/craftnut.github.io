@@ -1,0 +1,11 @@
+@import url('base.css');
+
+.which {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.links {
+    font-weight: bold;
+    text-align: center;    
+}
